@@ -6,6 +6,4 @@ const Footer = () => (
     <h1 className="footer-text">Footer</h1>
   </div>
 )
-
-export default Footer
 export default Footer
